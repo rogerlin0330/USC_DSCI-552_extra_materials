@@ -48,4 +48,11 @@ Other materials for machine learning:
 
 3. Derivative for Cross-Entropy: [https://peterroelants.github.io/posts/cross-entropy-softmax/](https://peterroelants.github.io/posts/cross-entropy-softmax/)
 
-4. Other optimization methods except for gradient descent, e.g. the _Newton method_, the _Quasi-Newton method (DFP, BFGS)_, _conjugate gradient_, etc. How to address the singular-matrix issue during optimization (e.g. optimizing the cost function of logistic regression, etc.)
+4. Notes for the Coursera Deep Learning Specification:
+
+   - [check out the course link](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=46370300620&device=c&keyword=coursera%20deep%20learning%20ai&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429098219&hide_mobile_promo=&gclid=Cj0KCQjwo6D4BRDgARIsAA6uN18KtiNvpUj6viAHWc0mo74VRVAXR8ZplEmQ7FC90E1le6UMhg9P1nEaAvb8EALw_wcB#about)
+   - [check out the notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
+
+5. The fast.ai online courses: [check out here](https://www.fast.ai/)
+
+6. Other optimization methods except for gradient descent, e.g. the _Newton method_, the _Quasi-Newton method (DFP, BFGS)_, _conjugate gradient_, etc. How to address the singular-matrix issue during optimization (e.g. optimizing the cost function of logistic regression, etc.)

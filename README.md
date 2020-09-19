@@ -38,7 +38,9 @@ New content may be added to this post or old content in this post may be updated
      - What is the learning rate decay?
      - The local optimal issue in neural networks (Using a larger learning rate with the Adam algorithm to get rid of the saddle point quickly).
 
-8. Lesson 11's extra material: [Hidden_Markov_Model.pdf](<./Hidden Markov Model.pdf>) (from CS229 at Standford)
+8. Lesson 11's extra material:
+   - [Hidden_Markov_Model.pdf](<./Hidden Markov Model.pdf>) (from CS229 at Standford)
+   - [Forward_Procedure_and_Viterbi_Algorithm.pdf](<./Forward Procedure and Viterbi Algorithm.pdf>)
 
 Other materials for machine learning:
 

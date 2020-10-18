@@ -27,7 +27,7 @@ New content may be added to this post or old content in this post may be updated
 
    - Backpropagation - [https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
    - Activation Functions - [https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) and [https://towardsdatascience.com/comparison-of-activation-functions-for-deep-neural-networks-706ac4284c8a](https://towardsdatascience.com/comparison-of-activation-functions-for-deep-neural-networks-706ac4284c8a)
-   - Other concepts are worth to explore:
+   - Other concepts are worth to explore for general deep learning:
      - How to initialize the weight matrix properly? What's the issue if we initialize our weight matrix as a zero-matrix?
      - What is batch gradient descent, mini-batch gradient descent, and stochastic gradient descent?
      - How to make the gradient descent faster by using a larger learning rate without facing the divergent issue? (To explore, one needs to understand the _exponentially weighted average_, _RMSprop_, _momentum_, and the _Adam_ algorithm)
@@ -37,6 +37,7 @@ New content may be added to this post or old content in this post may be updated
      - What is gradient exploding or gradient vanishing, and how to solve them properly? (Try to Google the Xavier initialization and Yoshua Bengio)
      - What is the learning rate decay?
      - The local optimal issue in neural networks (Using a larger learning rate with the Adam algorithm to get rid of the saddle point quickly).
+   - LSTM - [Understanding_LSTM_Networks.pdf](<./Understanding LSTM Networks.pdf>) (from [https://colah.github.io/posts/2015-08-Understanding-LSTMs/](https://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 
 8. Lesson 11's extra material:
    - [Hidden_Markov_Model.pdf](<./Hidden Markov Model.pdf>) (from CS229 at Standford)
